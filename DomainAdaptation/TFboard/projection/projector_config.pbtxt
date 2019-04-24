@@ -1,0 +1,9 @@
+embeddings {
+  tensor_name: "DA_features:0"
+  metadata_path: "/home/donghwa/Documents/tf-dann/TFboard/projection/metadata.tsv"
+  sprite {
+    image_path: "/home/donghwa/Documents/tf-dann/TFboard/projection/sprite.png"
+    single_image_dim: 60
+    single_image_dim: 60
+  }
+}
